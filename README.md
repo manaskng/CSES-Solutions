@@ -23,3 +23,14 @@ Over 320 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | Additional Problems I   |     17/30     |
 | Additional Problems II  |     15/30     |
 | **Total**               |  **328/400**  |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/manaskng/CSES-Solutions/tree/master/3904-smallest-stable-index-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/manaskng/CSES-Solutions/tree/master/3904-smallest-stable-index-ii) |
+<!---LeetCode Topics End-->
