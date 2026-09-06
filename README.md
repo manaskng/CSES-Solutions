@@ -28,6 +28,7 @@ Over 320 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/manaskng/CSES-Solutions/tree/master/0042-trapping-rain-water) |
 | [3904-smallest-stable-index-ii](https://github.com/manaskng/CSES-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -40,5 +41,18 @@ Over 320 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/manaskng/CSES-Solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/manaskng/CSES-Solutions/tree/master/0115-distinct-subsequences) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/manaskng/CSES-Solutions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/manaskng/CSES-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/manaskng/CSES-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
