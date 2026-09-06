@@ -33,4 +33,12 @@ Over 320 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/manaskng/CSES-Solutions/tree/master/3904-smallest-stable-index-ii) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/manaskng/CSES-Solutions/tree/master/0115-distinct-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/manaskng/CSES-Solutions/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
