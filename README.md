@@ -30,6 +30,7 @@ Over 320 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manaskng/CSES-Solutions/tree/master/0042-trapping-rain-water) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/manaskng/CSES-Solutions/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/manaskng/CSES-Solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/manaskng/CSES-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -53,13 +54,23 @@ Over 320 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manaskng/CSES-Solutions/tree/master/0042-trapping-rain-water) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/manaskng/CSES-Solutions/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/manaskng/CSES-Solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manaskng/CSES-Solutions/tree/master/0042-trapping-rain-water) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/manaskng/CSES-Solutions/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/manaskng/CSES-Solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Math
 |  |
 | ------- |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/manaskng/CSES-Solutions/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+## Hash Table
+|  |
+| ------- |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/manaskng/CSES-Solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+## Greedy
+|  |
+| ------- |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/manaskng/CSES-Solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
