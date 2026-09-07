@@ -40,11 +40,13 @@ Over 320 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/manaskng/CSES-Solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/manaskng/CSES-Solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manaskng/CSES-Solutions/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/manaskng/CSES-Solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/manaskng/CSES-Solutions/tree/master/0940-distinct-subsequences-ii) |
 ## Two Pointers
 |  |
 | ------- |
