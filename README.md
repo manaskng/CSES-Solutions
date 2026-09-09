@@ -69,6 +69,7 @@ Over 320 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | ------- |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/manaskng/CSES-Solutions/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3870-count-commas-in-range](https://github.com/manaskng/CSES-Solutions/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/manaskng/CSES-Solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Hash Table
 |  |
 | ------- |
