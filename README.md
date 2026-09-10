@@ -82,4 +82,16 @@ Over 320 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/manaskng/CSES-Solutions/tree/master/0155-min-stack) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manaskng/CSES-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manaskng/CSES-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manaskng/CSES-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
