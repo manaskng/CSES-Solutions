@@ -30,6 +30,7 @@ Over 320 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manaskng/CSES-Solutions/tree/master/0042-trapping-rain-water) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manaskng/CSES-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0454-4sum-ii](https://github.com/manaskng/CSES-Solutions/tree/master/0454-4sum-ii) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/manaskng/CSES-Solutions/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manaskng/CSES-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/manaskng/CSES-Solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -76,6 +77,7 @@ Over 320 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset
 ## Hash Table
 |  |
 | ------- |
+| [0454-4sum-ii](https://github.com/manaskng/CSES-Solutions/tree/master/0454-4sum-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/manaskng/CSES-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/manaskng/CSES-Solutions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
